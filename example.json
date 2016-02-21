@@ -1,0 +1,19 @@
+{ "Questions": [ {
+		"question":"What is 2+2?",
+		"options":{
+			"A":"4",
+			"B":"6",
+			"C":"0", 
+			"D":"I do not know"
+		},
+		"answer":"A"
+		} ,{
+"question":"What is today?",
+		"options":{
+			"A":"Friday",
+			"B":"Sunday",
+			"C":"Monday", 
+			"D":"I do not know"
+		},
+		"answer":"B"
+}]}
